@@ -1,0 +1,11 @@
+estacion,cluster,tipo_estacion,pasajeros_promedio,pasajeros_max,tiempo_espera_prom,buses_disponibles_prom,distancia_centro_km
+Av. Jimenez,3,Baja Demanda,2815.0,3800,8.6,9.2,2.3
+Banderas,1,Alta Demanda,1044.0,1500,4.1,5.8,10.2
+Calle 100,3,Baja Demanda,1888.0,2800,6.0,8.4,12.1
+Portal Américas,2,Demanda Media,2655.0,3600,8.2,10.4,16.8
+Portal Norte,2,Demanda Media,3115.0,4100,8.3,12.0,18.5
+Portal Sur,2,Demanda Media,2835.0,3800,9.3,11.0,17.2
+Ricaurte,3,Baja Demanda,2460.0,3300,7.6,8.4,3.5
+Suba,3,Baja Demanda,2345.0,3300,7.4,9.4,14.3
+Universidades,1,Alta Demanda,1498.0,2100,5.3,6.4,4.1
+Usme,3,Baja Demanda,2335.0,3200,8.0,9.6,19.1
