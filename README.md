@@ -1,0 +1,2 @@
+Este proyecto aplica técnicas de Aprendizaje No Supervisado, específicamente Clustering Jerárquico con el método Ward, para agrupar estaciones con comportamientos similares de demanda y operación.
+TransMilenio es el sistema de transporte masivo de Bogotá, Colombia. Opera con buses articulados que recorren corredores troncales a lo largo de la ciudad, atendiendo a más de 2 millones de pasajeros diariamente. Identificar patrones de comportamiento en las estaciones permite optimizar la frecuencia de buses, reducir tiempos de espera y mejorar la calidad del servicio.
